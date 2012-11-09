@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User Management</string>
+    <string name="help">Help</string>
+    <string name="image">Image</string>
+    <string name="primarymodtext">Allow Actions On Primary Account</string>
+    <string name="create_user">Create</string>
+</resources>
